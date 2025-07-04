@@ -34,5 +34,9 @@ This project applies principles from **Kotlin Unlimited (Season 1 - Section 10)*
 https://open-meteo.com/en/docs
 
 
+![IMG-20250704-WA0040](https://github.com/user-attachments/assets/9599dfcf-9e04-41a0-89e7-b82b86674bb9)
+![IMG-20250704-WA0037](https://github.com/user-attachments/assets/78d78983-5f01-4211-945a-83c78cce3b98)
+![WhatsApp Image 2025-07-04 at 22 59 53_e777b45b](https://github.com/user-attachments/assets/b7f0b1a1-b3e2-4e5d-ad40-a15b7f973800)
+
 ![IMG-20250704-WA0038](https://github.com/user-attachments/assets/73f71019-a8a7-4d29-ba6e-d0f18715ec95)
 
